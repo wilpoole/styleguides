@@ -1,4 +1,4 @@
-styleguide Version 0.1 13-11-2017
+styleguides Version 0.1 13-11-2017
 
 Description
   Collection of style guides and useful information for languages of focus
